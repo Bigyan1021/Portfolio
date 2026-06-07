@@ -11,6 +11,9 @@ https://bigyankc.netlify.app/
 - CSS
 - JavaScript
 
+# Tools
+- Docker
+
 ## Features
 - Responsive design
 - Project showcase
